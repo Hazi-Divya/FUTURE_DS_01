@@ -1,357 +1,187 @@
-\# Business Sales Performance Analytics Dashboard
+# 📊 Business Sales Performance Analytics Dashboard
 
+### Power BI | Data Analytics | Business Intelligence
 
+---
 
-\## Project Overview
+## 📌 Project Overview
 
-
-
-This project presents an interactive Business Sales Performance Analytics Dashboard built using Power BI. The analysis is based on the SuperStore Sales Dataset and focuses on understanding business performance across products, regions, customer segments, and shipping modes.
-
-
+This project presents an interactive **Business Sales Performance Analytics Dashboard** built using **Power BI**. The analysis is based on the **SuperStore Sales Dataset** and focuses on understanding business performance across products, regions, customer segments, and shipping modes.
 
 The dashboard enables stakeholders to monitor key performance indicators (KPIs), identify profitable business areas, and make data-driven decisions.
 
+---
 
+## 📊 Dashboard Highlights
 
-\---
+* 💰 **Total Sales:** **$2.30M**
+* 📦 **Total Orders:** **5,009**
+* 📈 **Total Profit:** **$286.40K**
+* 🎯 **Profit Margin:** **12.47%**
 
+---
 
+## 🎯 Objectives
 
-\## Dashboard Highlights
+* Analyze overall business performance using key metrics.
+* Identify top-performing products and categories.
+* Compare sales and profitability across regions.
+* Understand customer segment behavior.
+* Evaluate shipping mode performance.
+* Discover trends and patterns in sales data.
 
+---
 
+## 🛠️ Tools Used
 
-\* \*\*Total Sales:\*\* $2.30M
+* Power BI Desktop
+* SuperStore Sales Dataset (CSV)
+* DAX Measures
+* Data Cleaning & Transformation
+* Data Visualization
 
-\* \*\*Total Orders:\*\* 5,009
+---
 
-\* \*\*Total Profit:\*\* $286.40K
+## 📂 Dataset Information
 
-\* \*\*Profit Margin:\*\* 12.47%
+**Dataset:** SuperStore Sales Dataset
 
+### Key Features
 
+* Order ID
+* Order Date
+* Ship Date
+* Customer Segment
+* Region
+* State
+* Category
+* Sub-Category
+* Product Name
+* Sales
+* Profit
+* Quantity
+* Discount
 
-\---
+---
 
+## 📈 Dashboard Pages
 
-
-\## Objectives
-
-
-
-\* Analyze overall business performance using key metrics.
-
-\* Identify top-performing products and categories.
-
-\* Compare sales and profitability across regions.
-
-\* Understand customer segment behavior.
-
-\* Evaluate shipping mode performance.
-
-\* Discover trends and patterns in sales data.
-
-
-
-\---
-
-
-
-\## Tools Used
-
-
-
-\* Power BI Desktop
-
-\* SuperStore Sales Dataset (CSV)
-
-\* DAX Measures
-
-\* Data Cleaning and Transformation
-
-\* Data Visualization
-
-
-
-\---
-
-
-
-\## Dataset Information
-
-
-
-\*\*Dataset:\*\* SuperStore Sales Dataset
-
-
-
-\### Key Features
-
-
-
-\* Order ID
-
-\* Order Date
-
-\* Ship Date
-
-\* Customer Segment
-
-\* Region
-
-\* State
-
-\* Category
-
-\* Sub-Category
-
-\* Product Name
-
-\* Sales
-
-\* Profit
-
-\* Quantity
-
-\* Discount
-
-
-
-\---
-
-
-
-\## Dashboard Pages
-
-
-
-\### 1. Executive Summary
-
-
+### 1️⃣ Executive Summary
 
 Provides a high-level overview of business performance through KPIs and trend analysis.
 
+**Visuals Included:**
 
+* Total Sales
+* Total Orders
+* Total Profit
+* Profit Margin (%)
+* Sales Trend by Year
+* Total Sales by Region
+* Total Profit by Region
+* Sales Distribution by Category
 
-\*\*Visuals Included:\*\*
+---
 
-
-
-\* Total Sales
-
-\* Total Orders
-
-\* Total Profit
-
-\* Profit Margin (%)
-
-\* Sales Trend by Year
-
-\* Total Sales by Region
-
-\* Total Profit by Region
-
-\* Sales Distribution by Category
-
-
-
-\---
-
-
-
-\### 2. Product Analysis
-
-
+### 2️⃣ Product Analysis
 
 Focuses on product and category-level performance.
 
+**Visuals Included:**
 
+* Top 10 Products by Sales
+* Top 10 Products by Profit
+* Sales by Category
+* Profit by Category
+* Top 10 Sub-Categories by Sales
+* Top 10 Sub-Categories by Profit
 
-\*\*Visuals Included:\*\*
+---
 
-
-
-\* Top 10 Products by Sales
-
-\* Top 10 Products by Profit
-
-\* Sales by Category
-
-\* Profit by Category
-
-\* Top 10 Sub-Categories by Sales
-
-\* Top 10 Sub-Categories by Profit
-
-
-
-\---
-
-
-
-\### 3. Regional Analysis
-
-
+### 3️⃣ Regional Analysis
 
 Analyzes sales and profit performance across different states and regions.
 
+**Visuals Included:**
 
+* Top 10 States by Sales
+* Top 10 States by Profit
+* Total Sales by Region
+* Total Profit by Region
 
-\*\*Visuals Included:\*\*
+---
 
-
-
-\* Top 10 States by Sales
-
-\* Top 10 States by Profit
-
-\* Total Sales by Region
-
-\* Total Profit by Region
-
-
-
-\---
-
-
-
-\### 4. Customer Analysis
-
-
+### 4️⃣ Customer Analysis
 
 Examines customer segments and shipping preferences.
 
+**Visuals Included:**
 
+* Sales by Customer Segment
+* Profit by Customer Segment
+* Sales by Ship Mode
+* Profit by Ship Mode
+* Segment Filter
+* Year Filter
 
-\*\*Visuals Included:\*\*
+---
 
+## 🔍 Key Insights
 
+✅ West Region generated the highest sales and profit.
 
-\* Sales by Customer Segment
+✅ Consumer Segment contributed the largest share of revenue.
 
-\* Profit by Customer Segment
+✅ Technology and Furniture were among the strongest-performing product categories.
 
-\* Sales by Ship Mode
+✅ Standard Class was the most frequently used shipping mode.
 
-\* Profit by Ship Mode
+✅ Sales demonstrated consistent growth across the analyzed years.
 
-\* Segment Filter
+✅ A small number of products contributed significantly to overall revenue and profit.
 
-\* Year Filter
+---
 
-
-
-\---
-
-
-
-\## Key Insights
-
-
-
-\* The West region generated the highest sales and profit.
-
-\* Consumer customers contributed the largest share of revenue.
-
-\* Technology and Furniture were among the strongest-performing product categories.
-
-\* Standard Class was the most frequently used shipping mode.
-
-\* Sales demonstrated steady growth over the analyzed period.
-
-\* A small number of products contributed significantly to overall revenue and profit.
-
-
-
-\---
-
-
-
-\## Project Structure
-
-
+## 📁 Project Structure
 
 ```text
-
-FUTURE\_DS\_01\_
-
-│
+Business_Sales_Performance_Dashboard
 
 ├── Dataset
-
 ├── Notebooks
-
 ├── Outputs
-
 ├── PowerBI
-
 ├── Report
-
 ├── Screenshots
-
 └── README.md
-
 ```
 
+## 📷 Dashboard Screenshots
 
+### Executive Summary
 
-\---
+![Executive Summary Dashboard](Business_Sales_Performance_Dashboard/Screenshots/Executive_Summary.png)
 
-\## Dashboard Screenshots
+### Product Analysis
 
+![Product Analysis Dashboard](Business_Sales_Performance_Dashboard/Screenshots/Product_Analysis.png)
 
+### Regional Analysis
 
-\### Executive Summary
+![Regional Analysis Dashboard](Business_Sales_Performance_Dashboard/Screenshots/Regional_Analysis.png)
 
+### Customer Analysis
 
+![Customer Analysis Dashboard](Business_Sales_Performance_Dashboard/Screenshots/Customer_Analysis.png)
 
-!\[Executive Summary Dashboard](Screenshots/Executive\_Summary.png)
+---
 
+## 👨‍💻 Author
 
+**Badiginchala Hazi Divya**
 
-\### Product Analysis
+🎓 B.Tech Computer Science and Engineering
 
+🏫 RGUKT Ongole
 
-
-!\[Product Analysis Dashboard](Screenshots/Product\_Analysis.png)
-
-
-
-\### Regional Analysis
-
-
-
-!\[Regional Analysis Dashboard](Screenshots/Regional\_Analysis.png)
-
-
-
-\### Customer Analysis
-
-
-
-!\[Customer Analysis Dashboard](Screenshots/Customer\_Analysis.png)
-
-\---
-
-
-
-\## Author
-
-
-
-\*\*Badiginchala Hazi Divya\*\*
-
-
-
-B.Tech Computer Science and Engineering
-
-
-
-RGUKT Ongole
-
-
-
-Future Interns – Data Science \& Analytics Internship
-
-
+💡 Data Analyst | Aspiring Data Scientist &AI/ML Enthusiast
